@@ -5,6 +5,6 @@ public struct PercentsRewards {
     }
     
     public func getRandomLetter() -> String {
-        "a"
+        "b"
     }
 }
