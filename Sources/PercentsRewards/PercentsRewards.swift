@@ -3,4 +3,8 @@ public struct PercentsRewards {
 
     public init() {
     }
+    
+    public func getRandomLetter() -> String {
+        "a"
+    }
 }
