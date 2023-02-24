@@ -95,6 +95,27 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAnotherLetter",
+            "printedName": "getAnotherLetter()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TestPackage15PercentsRewardsV16getAnotherLetterSSyF",
+            "mangledName": "$s11TestPackage15PercentsRewardsV16getAnotherLetterSSyF",
+            "moduleName": "TestPackage",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",

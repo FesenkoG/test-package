@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "28c8fb4669b7999d40a0d434217c786bfa0a00b3d676f12156b11b59fc4cb093"
+build_start_time: [1677255694, 572196006]
+build_end_time: [1677255695, 122522830]
+inputs:
+  "/Users/georgiifesenko/Developer/TestPackage/Sources/TestPackage/TestPackage.swift": [1677255573, 713949203]

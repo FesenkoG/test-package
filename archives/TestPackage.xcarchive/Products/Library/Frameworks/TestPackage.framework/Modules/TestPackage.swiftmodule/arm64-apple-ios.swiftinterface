@@ -11,4 +11,5 @@ public struct PercentsRewards {
   }
   public init()
   public func getRandomLetter() -> Swift.String
+  public func getAnotherLetter() -> Swift.String
 }
