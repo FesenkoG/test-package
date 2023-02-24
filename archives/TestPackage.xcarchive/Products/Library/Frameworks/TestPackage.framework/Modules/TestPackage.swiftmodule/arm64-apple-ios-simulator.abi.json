@@ -1,0 +1,141 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "PercentsRewards",
+        "printedName": "PercentsRewards",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "text",
+            "printedName": "text",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TestPackage15PercentsRewardsV4textSSvp",
+            "mangledName": "$s11TestPackage15PercentsRewardsV4textSSvp",
+            "moduleName": "TestPackage",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "SetterAccess",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TestPackage15PercentsRewardsV4textSSvg",
+                "mangledName": "$s11TestPackage15PercentsRewardsV4textSSvg",
+                "moduleName": "TestPackage",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PercentsRewards",
+                "printedName": "TestPackage.PercentsRewards",
+                "usr": "s:11TestPackage15PercentsRewardsV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11TestPackage15PercentsRewardsVACycfc",
+            "mangledName": "$s11TestPackage15PercentsRewardsVACycfc",
+            "moduleName": "TestPackage",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getRandomLetter",
+            "printedName": "getRandomLetter()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TestPackage15PercentsRewardsV15getRandomLetterSSyF",
+            "mangledName": "$s11TestPackage15PercentsRewardsV15getRandomLetterSSyF",
+            "moduleName": "TestPackage",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAnotherLetter",
+            "printedName": "getAnotherLetter()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TestPackage15PercentsRewardsV16getAnotherLetterSSyF",
+            "mangledName": "$s11TestPackage15PercentsRewardsV16getAnotherLetterSSyF",
+            "moduleName": "TestPackage",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11TestPackage15PercentsRewardsV",
+        "mangledName": "$s11TestPackage15PercentsRewardsV",
+        "moduleName": "TestPackage",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/georgiifesenko\/Developer\/TestPackage\/Sources\/TestPackage\/TestPackage.swift",
+      "kind": "StringLiteral",
+      "offset": 67,
+      "length": 15,
+      "value": "\"Hello, World!\""
+    }
+  ]
+}
